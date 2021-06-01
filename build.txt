@@ -1,0 +1,4 @@
+displayName = The Official Mod
+author = Star Breaker
+version = 0.1
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
